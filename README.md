@@ -1,10 +1,8 @@
-# uduters detection
+# Uduters detection
 
-Simple overview of use/purpose.
+*A detection of wong udud*  
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
+An in-depth paragraph about the project and overview of use.  
 
 ## Getting Started
 
